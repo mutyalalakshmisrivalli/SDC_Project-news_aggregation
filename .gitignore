@@ -1,0 +1,61 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Python
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+.metadata/
+bin/
+tmp/
+
+# Logs
+*.log
+logs/
+
+# Databases / Data files
+*.db
+*.sqlite
+*.sqlite3
+sdc_gateway.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.userosscache
+*.sln.docstates
+
+# Frontend builds
+dist/
+build/
+out/
+.next/
